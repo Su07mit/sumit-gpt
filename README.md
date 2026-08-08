@@ -1,4 +1,4 @@
-# 🧠 Sumit GPT
+<img width="1467" height="824" alt="image" src="https://github.com/user-attachments/assets/afe60e3c-d8d5-4766-8124-75eec50aecd2" /># 🧠 Sumit GPT
 
 <p align="center">
   <strong>A personal AI assistant with Offline, Online Search, Deep Research, Voice & Vision capabilities.</strong>
@@ -29,7 +29,8 @@ Instead of relying entirely on cloud AI services, Sumit GPT is designed around a
 ## 🖥️ Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Sumit GPT Dashboard" width="100%">
+  <img src="<img width="1467" height="824" alt="image" src="https://github.com/user-attachments/assets/1994cac8-acb7-4506-871c-aef50bd04112" />
+" alt="Sumit GPT Dashboard" width="100%">
 </p>
 
 ### 🎨 Interface Highlights
