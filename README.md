@@ -30,7 +30,6 @@ Instead of relying entirely on cloud AI services, Sumit GPT is designed around a
 
 <p align="center">
   <img src="<img width="1467" height="824" alt="image" src="https://github.com/user-attachments/assets/1994cac8-acb7-4506-871c-aef50bd04112" />
-" alt="Sumit GPT Dashboard" width="100%">
 </p>
 
 ### 🎨 Interface Highlights
